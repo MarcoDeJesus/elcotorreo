@@ -1,3 +1,7 @@
 public metodoo(){
  nuevo cambio 
 }
+
+public metodoArreglandoButton(){
+
+}
